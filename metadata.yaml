@@ -1,0 +1,24 @@
+_repo: A-ki-orokke-bujdosott-es-egyeb-elbeszelesek_62938
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eötvös, Károly
+    alias: Eotvos, Karoly
+    birthdate: 1842
+    deathdate: 1916
+    gutenberg_agent_id: '52119'
+    url: http://www.gutenberg.org/2009/agents/52119
+    wikipedia: https://hu.wikipedia.org/wiki/E%C3%B6tv%C3%B6s_K%C3%A1roly
+description: ''
+gutenberg_issued: '2020-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62938'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A ki örökké bujdosott és egyéb elbeszélések
+url: http://www.gutenberg.org/ebooks/62938
